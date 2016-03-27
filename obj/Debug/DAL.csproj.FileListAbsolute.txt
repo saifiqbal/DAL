@@ -1,0 +1,9 @@
+c:\users\softnology\documents\visual studio 2012\Projects\FortTrans-SuperAdmin\DAL\bin\Debug\DAL.dll
+c:\users\softnology\documents\visual studio 2012\Projects\FortTrans-SuperAdmin\DAL\bin\Debug\DAL.pdb
+c:\users\softnology\documents\visual studio 2012\Projects\FortTrans-SuperAdmin\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\softnology\documents\visual studio 2012\Projects\FortTrans-SuperAdmin\DAL\obj\Debug\DAL.dll
+c:\users\softnology\documents\visual studio 2012\Projects\FortTrans-SuperAdmin\DAL\obj\Debug\DAL.pdb
+D:\Practice_Projects\FortTrans-SuperAdmin\DAL\bin\Debug\DAL.dll
+D:\Practice_Projects\FortTrans-SuperAdmin\DAL\bin\Debug\DAL.pdb
+D:\Practice_Projects\FortTrans-SuperAdmin\DAL\obj\Debug\DAL.dll
+D:\Practice_Projects\FortTrans-SuperAdmin\DAL\obj\Debug\DAL.pdb
